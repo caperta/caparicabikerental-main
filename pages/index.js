@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Caparica Bike Rental!
+          Caparica Bike Rentals
         </h1>
           <div className='container'>
 
